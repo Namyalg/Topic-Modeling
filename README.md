@@ -10,3 +10,11 @@ So first you need to identify the topics then get the content pertaining to that
 
 Given a set of documents u need to identify all the topics that are spoken about, then given an article u should be able to classify it
 and also classify the existing documents into topics or groups. The number of groups needs to be mentioned explicitly, but the goal here is to assign that value K based on some paramters and not do it manually
+
+Documents exhibit multiple topics - LDA
+
+Latent Dirchilet Allocation
+
+Latent : Cannot be seen but is observed by some characterstics
+Dirchilet is a distribution where total probablity is 1 of all
+Allocation : is exactly what it means
