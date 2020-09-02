@@ -14,9 +14,12 @@ and also classify the existing documents into topics or groups. The number of gr
 Most common in LDA
 Documents exhibit multiple topics - LDA
 Latent Dirchilet Allocation
+
 Latent : Cannot be seen but is observed by some characterstics
+
 Dirchilet is a distribution where total probablity is 1 of all
+
 Allocation : is exactly what it means
 
-https://nlp.stanford.edu/software/tmt/tmt-0.4/, this is a toolkit to perform topic modelling from stanford..
+
 
