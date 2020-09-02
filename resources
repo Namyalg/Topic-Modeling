@@ -1,0 +1,23 @@
+https://nlp.stanford.edu/software/tmt/tmt-0.4/, this is a toolkit to perform topic modelling from stanford used to perform LDA
+
+An explanation of what Topic modelling is:
+- https://cbail.github.io/textasdata/topic-modeling/rmarkdown/Topic_Modeling.html
+- https://www.cs.cornell.edu/~laurejt/papers/authorless-tms-2018.pdf
+
+This explains Topic modelling in detail, the math is overwhelming
+https://www.youtube.com/watch?v=DDq3OVp9dNA
+
+A few medium links about LDA:
+
+- https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
+- https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+- https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158
+
+This is the original paper:
+
+https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
+An explanation to the same
+
+https://www.youtube.com/watch?v=VTweNS8GiWI&t=2012s
+
