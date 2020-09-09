@@ -21,5 +21,6 @@ Dirchilet is a distribution where total probablity is 1 of all
 
 Allocation : is exactly what it means
 
-
+VISUALIZONG THE topi modelng
+https://github.com/bmabey/pyLDAvis
 
