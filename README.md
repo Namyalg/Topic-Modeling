@@ -21,6 +21,9 @@ Dirchilet is a distribution where total probablity is 1 of all
 
 Allocation : is exactly what it means
 
-VISUALIZONG THE topi modelng
+VISUALIZING THE topic modeling
 https://github.com/bmabey/pyLDAvis
 
+## LSA
+Latent semantic analysis
+https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
