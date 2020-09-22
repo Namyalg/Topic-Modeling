@@ -1,0 +1,13 @@
+## TO-DO
+
+- Vary parameters : 
+  - Passes
+  - Input size
+  - Coherance value
+  - Number of topics
+  - Stability factor(not sure)
+  - Visual analysis, word cloud
+  - tf.idf, word vectoriser
+  - Relation between the above points
+  - Thresholding (based on frequency)
+  
