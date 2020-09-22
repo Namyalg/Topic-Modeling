@@ -1,12 +1,12 @@
 ## TO-DO
 
 - Vary parameters : 
-  - Passes
-  - Input size
-  - Coherance value
-  - Number of topics
-  - Stability factor(not sure)
-  - Visual analysis, word cloud
+  - Passes - Namya
+  - Input size - Rashi
+  - Coherance value - Shruthika
+  - Number of topics - Namya
+  - Stability factor(not sure) - Shruthika
+  - Visual analysis, word cloud - Rashi
   - tf.idf, word vectoriser
   - Relation between the above points
   - Thresholding (based on frequency)
