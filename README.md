@@ -1,6 +1,7 @@
 # Topic-Modeling
 
-### Use the notebook : COVID-title-final-groupwork.ipynb
+### Use the notebook : COVID-title-final-groupwork.ipynb (this has the LDA model)
+### Use the notebook : COVID-LSA-Finalwork.ipynb (this has the LSA model)
 ### Use the dataset : COVID-19_title.csv
 
 Topic modelling is a technique to classify the number of topics a given text article contains.
