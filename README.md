@@ -1,4 +1,8 @@
 # Topic-Modeling
+
+### Use the notebook : COVID-title-final-groupwork.ipynb
+### Use the dataset : COVID-19_title.csv
+
 Topic modelling is a technique to classify the number of topics a given text article contains.
 The method that is explained as follows:
 - first u take the text/document. Then do the basic pre-processing and identify or try to classify and identify the different groups, or topics that can identified.
@@ -21,6 +25,9 @@ Dirchilet is a distribution where total probablity is 1 of all
 
 Allocation : is exactly what it means
 
-VISUALIZONG THE topi modelng
+VISUALIZING THE topic modeling
 https://github.com/bmabey/pyLDAvis
 
+## LSA
+Latent semantic analysis
+https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
