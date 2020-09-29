@@ -7,7 +7,7 @@
   - Number of topics - Namya
   - Stability factor(not sure) - Shruthika
   - Visual analysis, word cloud - Rashi
-  - tf.idf, word vectoriser
+  - tf.idf, word vectoriser - Khushboo
   - Relation between the above points
   - Thresholding (based on frequency)
   
