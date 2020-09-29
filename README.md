@@ -37,3 +37,6 @@ https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
 This is a walkthrough guide on hyperparameter tuning related to the alpha and beta and coherence
 
 https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0
+
+### Official docs for coherence and the Gensim library
+https://radimrehurek.com/gensim/models/coherencemodel.html
