@@ -32,6 +32,9 @@ https://github.com/bmabey/pyLDAvis
 
 ## LSA
 Latent semantic analysis
+
+Step-by-Step implementation of LSA
+https://www.datascienceassn.org/sites/default/files/users/user1/lsa_presentation_final.pdf
 https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
 
 ## Topic model evaluation
