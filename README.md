@@ -30,6 +30,9 @@ Allocation : is exactly what it means
 VISUALIZING THE topic modeling
 https://github.com/bmabey/pyLDAvis
 
+## tf-idf
+https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+
 ## LSA
 Latent semantic analysis
 
