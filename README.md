@@ -37,8 +37,9 @@ https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-pytho
 Latent semantic analysis
 
 Step-by-Step implementation of LSA
-https://www.datascienceassn.org/sites/default/files/users/user1/lsa_presentation_final.pdf
-https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
+- https://mccormickml.com/2016/03/25/lsa-for-text-classification-tutorial/
+- https://www.datascienceassn.org/sites/default/files/users/user1/lsa_presentation_final.pdf
+- https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
 
 ## Topic model evaluation
 This is a walkthrough guide on hyperparameter tuning related to the alpha and beta and coherence
